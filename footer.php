@@ -1,0 +1,1 @@
+<div class="footer">All right are reserved</div>
